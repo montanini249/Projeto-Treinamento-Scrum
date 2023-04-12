@@ -19,7 +19,7 @@ Assim como proposto pelo cliente, esse projeto tem como objetivo, desenvolver  u
 > _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos_
     
 
-:pushpin: <a href="https://github.com/TerraSoftwarehouse/Documentacao" class="botao" target="_blank"><strong>Documentação</strong></a>   
+:pushpin: <a href="https://github.com/TerraSoftwarehouse/Documentacao/blob/main/README.md" class="botao" target="_blank"><strong>Documentação</strong></a>   
 
 :pushpin: Status do Projeto: **Em andamento** 🚧
 
@@ -27,7 +27,7 @@ Assim como proposto pelo cliente, esse projeto tem como objetivo, desenvolver  u
 Cada entrega foi realizada a partir da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 09/04/2023 | ✔️ Em andamento    | Em breve... |
+| 01 | 09/04/2023 | ✔️ Em andamento    |  [ver relatório](https://github.com/TerraSoftwarehouse/Sprint01) |
 | 02 | 07/05/2023 | 🛑 Não iniciada    | -- |
 | 03 | 06/06/2023 | 🛑 Não iniciada    | -- |
 
@@ -45,9 +45,8 @@ Cada entrega foi realizada a partir da criação de uma branch neste repositóri
 
 <img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/wireframe-b.gif" /> 
 <img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/site-v1-b.gif" /> 
-<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/site-v1.gif" /> 
-<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/site-v2.gif" /> 
-<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/site-v2_5.gif" /> 
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/site-v2-b.gif" /> 
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/site-v4-b.gif" /> 
 
 → [Voltar ao topo](#topo)
     
@@ -80,6 +79,7 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 | Dev Team |Kelvin Franco de Souza              |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-franco-81879a26b) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/KelvinFranco-10)| 
 | Dev Team |  Beatriz Roberto Montanini  |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-montanini-b69b451b9/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/montanini249)| 
 | Dev Team | Thiago Marinho Brito de Souza    |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Thiagombs23)| 
+| Dev Team | Rogério Leite da Cunha    |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rog%C3%A9rio-leite-da-cunha-04b589a1/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/RogerioCunhaFatec)|     
     
 → [Voltar ao topo](#topo)
 
